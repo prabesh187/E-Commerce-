@@ -1,0 +1,222 @@
+{
+  "common": {
+    "loading": "लोड हुँदैछ...",
+    "error": "त्रुटि भयो",
+    "success": "सफल",
+    "cancel": "रद्द गर्नुहोस्",
+    "save": "सुरक्षित गर्नुहोस्",
+    "delete": "मेटाउनुहोस्",
+    "edit": "सम्पादन गर्नुहोस्",
+    "search": "खोज्नुहोस्",
+    "filter": "फिल्टर",
+    "sort": "क्रमबद्ध गर्नुहोस्",
+    "addToCart": "कार्टमा थप्नुहोस्",
+    "buyNow": "अहिले किन्नुहोस्"
+  },
+  "nav": {
+    "home": "गृहपृष्ठ",
+    "products": "उत्पादनहरू",
+    "cart": "कार्ट",
+    "wishlist": "इच्छा सूची",
+    "orders": "अर्डरहरू",
+    "profile": "प्रोफाइल",
+    "login": "लगइन",
+    "register": "दर्ता गर्नुहोस्",
+    "logout": "लगआउट"
+  },
+  "auth": {
+    "email": "इमेल",
+    "phone": "फोन",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड पुष्टि गर्नुहोस्",
+    "loginTitle": "आफ्नो खातामा लगइन गर्नुहोस्",
+    "registerTitle": "खाता सिर्जना गर्नुहोस्",
+    "forgotPassword": "पासवर्ड बिर्सनुभयो?",
+    "noAccount": "खाता छैन?",
+    "hasAccount": "पहिले नै खाता छ?"
+  },
+  "product": {
+    "title": "उत्पादनहरू",
+    "details": "उत्पादन विवरण",
+    "price": "मूल्य",
+    "category": "श्रेणी",
+    "rating": "मूल्याङ्कन",
+    "reviews": "समीक्षाहरू",
+    "inStock": "स्टकमा छ",
+    "outOfStock": "स्टकमा छैन",
+    "relatedProducts": "सम्बन्धित उत्पादनहरू",
+    "no_products": "कुनै उत्पादन फेला परेन",
+    "not_found": "उत्पादन फेला परेन",
+    "description": "विवरण"
+  },
+  "cart": {
+    "title": "किनमेल कार्ट",
+    "empty": "तपाईंको कार्ट खाली छ",
+    "total": "जम्मा",
+    "checkout": "चेकआउट गर्नुहोस्",
+    "quantity": "परिमाण",
+    "remove": "हटाउनुहोस्",
+    "added_success": "कार्टमा सफलतापूर्वक थपियो"
+  },
+  "order": {
+    "title": "अर्डरहरू",
+    "orderNumber": "अर्डर नम्बर",
+    "date": "मिति",
+    "status": "स्थिति",
+    "total": "जम्मा",
+    "details": "अर्डर विवरण",
+    "trackingNumber": "ट्र्याकिङ नम्बर"
+  },
+  "home": {
+    "categories": "श्रेणी अनुसार किनमेल गर्नुहोस्",
+    "featured_products": "विशेष उत्पादनहरू",
+    "recommended_for_you": "तपाईंको लागि सिफारिस गरिएको",
+    "view_all": "सबै हेर्नुहोस्"
+  },
+  "categories": {
+    "handicrafts": "हस्तकला",
+    "textiles": "कपडा",
+    "food_&_beverages": "खाना र पेय पदार्थ",
+    "jewelry": "गहना",
+    "home_decor": "घर सजावट",
+    "clothing": "लुगा"
+  },
+  "sort": {
+    "newest": "नयाँ पहिले",
+    "oldest": "पुरानो पहिले",
+    "price_low_high": "मूल्य: कम देखि उच्च",
+    "price_high_low": "मूल्य: उच्च देखि कम",
+    "rating_high_low": "मूल्याङ्कन: उच्च देखि कम",
+    "popularity": "सबैभन्दा लोकप्रिय"
+  },
+  "pagination": {
+    "previous": "अघिल्लो",
+    "next": "अर्को"
+  },
+  "wishlist": {
+    "added_success": "इच्छा सूचीमा सफलतापूर्वक थपियो"
+  },
+  "reviews": {
+    "no_reviews": "अहिलेसम्म कुनै समीक्षा छैन। यो उत्पादनको समीक्षा गर्ने पहिलो व्यक्ति बन्नुहोस्!",
+    "anonymous": "अज्ञात",
+    "page_of": "पृष्ठ {{current}} को {{total}}",
+    "submit_review": "समीक्षा पेश गर्नुहोस्",
+    "your_rating": "तपाईंको मूल्याङ्कन",
+    "your_review": "तपाईंको समीक्षा",
+    "write_review": "यहाँ आफ्नो समीक्षा लेख्नुहोस्..."
+  },
+  "seller": {
+    "products": {
+      "title": "मेरा उत्पादनहरू",
+      "create_product": "उत्पादन सिर्जना गर्नुहोस्",
+      "edit_product": "उत्पादन सम्पादन गर्नुहोस्",
+      "create_first": "आफ्नो पहिलो उत्पादन सिर्जना गर्नुहोस्",
+      "no_products": "तपाईंसँग अहिलेसम्म कुनै उत्पादन छैन",
+      "product": "उत्पादन",
+      "price": "मूल्य",
+      "inventory": "स्टक",
+      "status": "स्थिति",
+      "actions": "कार्यहरू",
+      "status_pending": "पेन्डिङ",
+      "status_verified": "प्रमाणित",
+      "status_rejected": "अस्वीकृत",
+      "confirm_delete": "के तपाईं यो उत्पादन मेटाउन निश्चित हुनुहुन्छ?",
+      "title_en": "शीर्षक (अंग्रेजी)",
+      "title_ne": "शीर्षक (नेपाली)",
+      "description_en": "विवरण (अंग्रेजी)",
+      "description_ne": "विवरण (नेपाली)",
+      "select_category": "श्रेणी चयन गर्नुहोस्",
+      "images": "उत्पादन तस्बिरहरू",
+      "image_hint": "एक वा बढी तस्बिरहरू अपलोड गर्नुहोस् (JPG, PNG)। पहिलो तस्बिर मुख्य तस्बिर हुनेछ।"
+    },
+    "orders": {
+      "title": "मेरा अर्डरहरू",
+      "no_orders": "कुनै अर्डर फेला परेन",
+      "buyer": "खरिदकर्ता",
+      "actions": "कार्यहरू",
+      "view": "हेर्नुहोस्",
+      "update_status": "स्थिति अपडेट गर्नुहोस्",
+      "filter_all": "सबै",
+      "filter_pending": "पेन्डिङ",
+      "filter_processing": "प्रशोधन हुँदै",
+      "filter_shipped": "पठाइएको",
+      "filter_delivered": "डेलिभर भएको",
+      "filter_cancelled": "रद्द गरिएको",
+      "status_pending": "पेन्डिङ",
+      "status_processing": "प्रशोधन हुँदै",
+      "status_shipped": "पठाइएको",
+      "status_delivered": "डेलिभर भएको",
+      "status_cancelled": "रद्द गरिएको"
+    }
+  },
+  "admin": {
+    "dashboard": {
+      "title": "एडमिन ड्यासबोर्ड",
+      "total_sales": "कुल बिक्री",
+      "total_revenue": "कुल राजस्व",
+      "active_users": "सक्रिय प्रयोगकर्ताहरू",
+      "total_products": "कुल उत्पादनहरू",
+      "pending_approvals": "पेन्डिङ अनुमोदनहरू",
+      "pending_sellers": "पेन्डिङ विक्रेताहरू",
+      "pending_products": "पेन्डिङ उत्पादनहरू",
+      "review": "समीक्षा गर्नुहोस्",
+      "quick_links": "द्रुत लिङ्कहरू",
+      "seller_verification": "विक्रेता प्रमाणीकरण",
+      "product_verification": "उत्पादन प्रमाणीकरण",
+      "banner_management": "ब्यानर व्यवस्थापन",
+      "popular_products": "लोकप्रिय उत्पादनहरू",
+      "no_popular_products": "अहिलेसम्म कुनै लोकप्रिय उत्पादन छैन",
+      "purchases": "खरिदहरू",
+      "revenue": "राजस्व"
+    },
+    "sellers": {
+      "title": "विक्रेता प्रमाणीकरण",
+      "no_pending": "कुनै पेन्डिङ विक्रेता छैन",
+      "pending_list": "पेन्डिङ विक्रेताहरू",
+      "pending": "पेन्डिङ",
+      "seller_details": "विक्रेता विवरण",
+      "business_name": "व्यवसायको नाम",
+      "contact": "सम्पर्क",
+      "business_address": "व्यवसायको ठेगाना",
+      "documents": "कागजातहरू",
+      "document": "कागजात",
+      "rejection_reason": "अस्वीकृतिको कारण (स्वीकृतिको लागि वैकल्पिक, अस्वीकृतिको लागि आवश्यक)",
+      "reason_placeholder": "अस्वीकृतिको कारण प्रविष्ट गर्नुहोस्...",
+      "reason_required": "अस्वीकृतिको कारण आवश्यक छ",
+      "approve": "स्वीकृत गर्नुहोस्",
+      "reject": "अस्वीकृत गर्नुहोस्",
+      "select_seller": "विवरण हेर्न विक्रेता चयन गर्नुहोस्"
+    },
+    "products": {
+      "title": "उत्पादन प्रमाणीकरण",
+      "no_pending": "कुनै पेन्डिङ उत्पादन छैन",
+      "pending_list": "पेन्डिङ उत्पादनहरू",
+      "pending": "पेन्डिङ",
+      "product_details": "उत्पादन विवरण",
+      "title_en": "शीर्षक (अंग्रेजी)",
+      "title_ne": "शीर्षक (नेपाली)",
+      "description_en": "विवरण (अंग्रेजी)",
+      "description_ne": "विवरण (नेपाली)",
+      "inventory": "स्टक",
+      "rejection_reason": "अस्वीकृतिको कारण (स्वीकृतिको लागि वैकल्पिक, अस्वीकृतिको लागि आवश्यक)",
+      "reason_placeholder": "अस्वीकृतिको कारण प्रविष्ट गर्नुहोस्...",
+      "reason_required": "अस्वीकृतिको कारण आवश्यक छ",
+      "approve": "स्वीकृत गर्नुहोस्",
+      "reject": "अस्वीकृत गर्नुहोस्",
+      "select_product": "विवरण हेर्न उत्पादन चयन गर्नुहोस्"
+    },
+    "banners": {
+      "title": "ब्यानर व्यवस्थापन",
+      "create_banner": "ब्यानर सिर्जना गर्नुहोस्",
+      "edit_banner": "ब्यानर सम्पादन गर्नुहोस्",
+      "no_banners": "अहिलेसम्म कुनै ब्यानर छैन",
+      "title_en": "शीर्षक (अंग्रेजी)",
+      "title_ne": "शीर्षक (नेपाली)",
+      "image_url": "तस्बिर URL",
+      "link": "लिङ्क (वैकल्पिक)",
+      "active": "सक्रिय",
+      "inactive": "निष्क्रिय",
+      "confirm_delete": "के तपाईं यो ब्यानर मेटाउन निश्चित हुनुहुन्छ?"
+    }
+  }
+}

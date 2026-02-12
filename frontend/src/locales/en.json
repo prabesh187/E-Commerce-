@@ -1,0 +1,222 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "orders": "Orders",
+    "profile": "Profile",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "auth": {
+    "email": "Email",
+    "phone": "Phone",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "loginTitle": "Login to Your Account",
+    "registerTitle": "Create an Account",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "product": {
+    "title": "Products",
+    "details": "Product Details",
+    "price": "Price",
+    "category": "Category",
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "relatedProducts": "Related Products",
+    "no_products": "No products found",
+    "not_found": "Product not found",
+    "description": "Description"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "quantity": "Quantity",
+    "remove": "Remove",
+    "added_success": "Added to cart successfully"
+  },
+  "order": {
+    "title": "Orders",
+    "orderNumber": "Order Number",
+    "date": "Date",
+    "status": "Status",
+    "total": "Total",
+    "details": "Order Details",
+    "trackingNumber": "Tracking Number"
+  },
+  "home": {
+    "categories": "Shop by Category",
+    "featured_products": "Featured Products",
+    "recommended_for_you": "Recommended for You",
+    "view_all": "View All"
+  },
+  "categories": {
+    "handicrafts": "Handicrafts",
+    "textiles": "Textiles",
+    "food_&_beverages": "Food & Beverages",
+    "jewelry": "Jewelry",
+    "home_decor": "Home Decor",
+    "clothing": "Clothing"
+  },
+  "sort": {
+    "newest": "Newest First",
+    "oldest": "Oldest First",
+    "price_low_high": "Price: Low to High",
+    "price_high_low": "Price: High to Low",
+    "rating_high_low": "Rating: High to Low",
+    "popularity": "Most Popular"
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "wishlist": {
+    "added_success": "Added to wishlist successfully"
+  },
+  "reviews": {
+    "no_reviews": "No reviews yet. Be the first to review this product!",
+    "anonymous": "Anonymous",
+    "page_of": "Page {{current}} of {{total}}",
+    "submit_review": "Submit Review",
+    "your_rating": "Your Rating",
+    "your_review": "Your Review",
+    "write_review": "Write your review here..."
+  },
+  "seller": {
+    "products": {
+      "title": "My Products",
+      "create_product": "Create Product",
+      "edit_product": "Edit Product",
+      "create_first": "Create Your First Product",
+      "no_products": "You don't have any products yet",
+      "product": "Product",
+      "price": "Price",
+      "inventory": "Inventory",
+      "status": "Status",
+      "actions": "Actions",
+      "status_pending": "Pending",
+      "status_verified": "Verified",
+      "status_rejected": "Rejected",
+      "confirm_delete": "Are you sure you want to delete this product?",
+      "title_en": "Title (English)",
+      "title_ne": "Title (Nepali)",
+      "description_en": "Description (English)",
+      "description_ne": "Description (Nepali)",
+      "select_category": "Select a category",
+      "images": "Product Images",
+      "image_hint": "Upload one or more images (JPG, PNG). First image will be the main image."
+    },
+    "orders": {
+      "title": "My Orders",
+      "no_orders": "No orders found",
+      "buyer": "Buyer",
+      "actions": "Actions",
+      "view": "View",
+      "update_status": "Update Status",
+      "filter_all": "All",
+      "filter_pending": "Pending",
+      "filter_processing": "Processing",
+      "filter_shipped": "Shipped",
+      "filter_delivered": "Delivered",
+      "filter_cancelled": "Cancelled",
+      "status_pending": "Pending",
+      "status_processing": "Processing",
+      "status_shipped": "Shipped",
+      "status_delivered": "Delivered",
+      "status_cancelled": "Cancelled"
+    }
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "total_sales": "Total Sales",
+      "total_revenue": "Total Revenue",
+      "active_users": "Active Users",
+      "total_products": "Total Products",
+      "pending_approvals": "Pending Approvals",
+      "pending_sellers": "Pending Sellers",
+      "pending_products": "Pending Products",
+      "review": "Review",
+      "quick_links": "Quick Links",
+      "seller_verification": "Seller Verification",
+      "product_verification": "Product Verification",
+      "banner_management": "Banner Management",
+      "popular_products": "Popular Products",
+      "no_popular_products": "No popular products yet",
+      "purchases": "Purchases",
+      "revenue": "Revenue"
+    },
+    "sellers": {
+      "title": "Seller Verification",
+      "no_pending": "No pending sellers",
+      "pending_list": "Pending Sellers",
+      "pending": "Pending",
+      "seller_details": "Seller Details",
+      "business_name": "Business Name",
+      "contact": "Contact",
+      "business_address": "Business Address",
+      "documents": "Documents",
+      "document": "Document",
+      "rejection_reason": "Rejection Reason (Optional for approval, required for rejection)",
+      "reason_placeholder": "Enter reason for rejection...",
+      "reason_required": "Rejection reason is required",
+      "approve": "Approve",
+      "reject": "Reject",
+      "select_seller": "Select a seller to view details"
+    },
+    "products": {
+      "title": "Product Verification",
+      "no_pending": "No pending products",
+      "pending_list": "Pending Products",
+      "pending": "Pending",
+      "product_details": "Product Details",
+      "title_en": "Title (English)",
+      "title_ne": "Title (Nepali)",
+      "description_en": "Description (English)",
+      "description_ne": "Description (Nepali)",
+      "inventory": "Inventory",
+      "rejection_reason": "Rejection Reason (Optional for approval, required for rejection)",
+      "reason_placeholder": "Enter reason for rejection...",
+      "reason_required": "Rejection reason is required",
+      "approve": "Approve",
+      "reject": "Reject",
+      "select_product": "Select a product to view details"
+    },
+    "banners": {
+      "title": "Banner Management",
+      "create_banner": "Create Banner",
+      "edit_banner": "Edit Banner",
+      "no_banners": "No banners yet",
+      "title_en": "Title (English)",
+      "title_ne": "Title (Nepali)",
+      "image_url": "Image URL",
+      "link": "Link (Optional)",
+      "active": "Active",
+      "inactive": "Inactive",
+      "confirm_delete": "Are you sure you want to delete this banner?"
+    }
+  }
+}

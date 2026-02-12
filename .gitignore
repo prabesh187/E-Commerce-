@@ -1,0 +1,90 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+frontend/.env
+
+# Build outputs
+dist/
+build/
+*/dist/
+*/build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+coverage/
+.nyc_output/
+
+# Uploads
+uploads/
+backend/uploads/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# MongoDB
+*.mongodb
+
+# Documentation (generated)
+*.md.backup
+BACKEND_FIX_APPLIED.md
+SERVERS_ARE_RUNNING.txt
+THE_REAL_PROBLEM.md
+CHECKLIST.md
+HOW_TO_START.txt
+FINAL_STATUS_REPORT.md
+PLEASE_READ_THIS.md
+READ_THIS_FIRST.md
+COMPLETE_FIX_GUIDE.md
+CRITICAL_FIXES_APPLIED.md
+UI_FIXES_APPLIED.md
+CHANGES_SUMMARY.md
+QUICK_START_GUIDE.md
+WHAT_YOU_WILL_SEE.md
+FINAL_SETUP_COMPLETE.md
+HOW_TO_RUN.md
+EXECUTION_SUMMARY.md
+TASK_1_COMPLETION_SUMMARY.md
+SETUP.md
+I_CAN_MAKE_IT_WORK.md
+STEP_BY_STEP_GUIDE.md
+WHY_CART_WASNT_WORKING.md
+ABOUT_THE_PLAN.md
+ALL_PROBLEMS_FIXED.md
+START_HERE.md
+AUTHENTICATION_FIXED.md
+SERVERS_RESTARTED.md
+backend/TASK_*.md
+backend/PAYMENT_CREDENTIAL_AUDIT_REPORT.md
+backend/API_TESTING_GUIDE.md
+frontend/LAZY_LOADING_IMPLEMENTATION.md
+frontend/RESPONSIVE_DESIGN_VERIFICATION.md
+frontend/TRANSLATION_VERIFICATION.md
+INTEGRATION_TEST_PLAN.md
