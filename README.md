@@ -234,3 +234,9 @@ For support, email: support@madeinnepal.com
 ---
 
 **Made with ❤️ for Nepal 🇳🇵**
+
+<img width="1137" height="914" alt="image" src="https://github.com/user-attachments/assets/ca202341-09d5-4f65-a89f-4342b8d50705" /><br>
+<img width="1153" height="881" alt="image" src="https://github.com/user-attachments/assets/51763da0-d59b-4a53-aa6a-14f37e35965a" /><br>
+
+
+
